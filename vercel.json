@@ -4,7 +4,7 @@
     "api/index.php": {
       "runtime": "vercel-php@0.7.4"
     },
-    "api/1nso2ea.php": {
+    "api/9v0hv1.php": {
       "runtime": "vercel-php@0.7.4"
     }
   },
@@ -17,8 +17,8 @@
       "dest": "/assets/$1"
     },
     {
-      "src": "/api/1nso2ea.php",
-      "dest": "/api/1nso2ea.php"
+      "src": "/api/9v0hv1.php",
+      "dest": "/api/9v0hv1.php"
     },
     {
       "src": "/(.*)",
